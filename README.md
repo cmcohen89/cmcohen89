@@ -7,7 +7,7 @@ As someone who has always been interested and actively engaged with computers an
 
 As a full-stack software engineer, I am extremely comfortable and capable with languages like JavaScript, Python, HTML, CSS, SQL, and associated frameworks like React, Redux, Express, Sequelize, Flask, and SQLAlchemy. I am effective at both Agile and Waterfall methodologies, adherent to RESTful web API design, proficient with SCRUM, Kanban, and GitHub, and experienced with several forms of pair programming. </p>
 
-<h3>My proficiencies</h3>
+<h3>My Proficiencies</h3>
 <p>
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
