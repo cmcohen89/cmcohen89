@@ -38,25 +38,42 @@ As a full-stack software engineer, I am extremely comfortable and capable with l
   </thead>
   <tbody>
     <tr>
-      <td><img alt="Preview Img" src="https://user-images.githubusercontent.com/103705214/211230599-252849a7-21fe-4843-9ff4-0ee791abd9dc.png"/></td> 
-      <td><img alt="Preview Img" src="https://img.shields.io/github/stars/thmsgbrt/react-simple-pull-to-refresh?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Description" src="https://img.shields.io/github/forks/thmsgbrt/react-simple-pull-to-refresh?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Features" src="https://img.shields.io/github/issues/thmsgbrt/react-simple-pull-to-refresh?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Technologies" src="https://img.shields.io/github/issues-pr/thmsgbrt/react-simple-pull-to-refresh?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Preview Img" src="https://user-images.githubusercontent.com/103705214/211230599-252849a7-21fe-4843-9ff4-0ee791abd9dc.png" /></td>
+	<td>A unique social media website of my own creation geared towards being used on the web as opposed to your phone.</td>
+      <td>Posts, Comments, Likes, Follows, Chat, Search, Profile, S3</td>
+      <td> 
+	  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+	  <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" /> <img src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white" />
+	  <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+	  <img src="https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101" /> 
+	</td>
+	    <td><a href=https://github.com/cmcohen89/slashfeed>Slash/Feed</a></td>
     </tr>
 	  <tr>
       <td><img alt="Preview Img" src="https://user-images.githubusercontent.com/103705214/211897420-07e0cf45-f45d-4450-9850-ae97d2198e0c.png"/></td>
-      <td><img alt="Preview Img" src="https://img.shields.io/github/stars/thmsgbrt/Chrome-Extension-with-React-and-Typescript-Starter-Pack?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Description" src="https://img.shields.io/github/forks/thmsgbrt/Chrome-Extension-with-React-and-Typescript-Starter-Pack?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Features" src="https://img.shields.io/github/issues/thmsgbrt/Chrome-Extension-with-React-and-Typescript-Starter-Pack?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Technologies" src="https://img.shields.io/github/issues-pr/thmsgbrt/Chrome-Extension-with-React-and-Typescript-Starter-Pack?style=flat-square&labelColor=343b41"/></td>
+      <td>A pixel-perfect clone of the e-commerce website Uncrate.com!</td>
+      <td>Products, Carts, Orders, Product Images, Favorites, Search</td>
+      <td>
+	  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+	  <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" /> 
+	  <img src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white" />
+	  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+	  <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" />
+	</td>
+      <td><a href=https://github.com/cmcohen89/reduncrate>Reduncrate</a></td>
     </tr>
     <tr>
       <td><img alt="Preview Img" src="https://user-images.githubusercontent.com/103705214/202872619-b7e63821-9e44-48f7-8893-c9d942eeab2b.png"/></td>
-      <td><img alt="Preview Img" src="https://img.shields.io/github/stars/thmsgbrt/nodejs-typescript-express-apollo-graphql-starter?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Description" src="https://img.shields.io/github/forks/thmsgbrt/nodejs-typescript-express-apollo-graphql-starter?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Features" src="https://img.shields.io/github/issues/thmsgbrt/nodejs-typescript-express-apollo-graphql-starter?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Technologies" src="https://img.shields.io/github/issues-pr/thmsgbrt/nodejs-typescript-express-apollo-graphql-starter?style=flat-square&labelColor=343b41"/></td>
+      <td>A pixel-perfect clone of Airbnb.com!</td>
+      <td>Spots, Reviews, Spot Images, Maps</td>
+      <td>
+	  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+	  <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" /> 
+	  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+	  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+	  <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" />
+	</td>
+      <td><a href=https://github.com/cmcohen89/bearbnb>Bearbnb</a></td>
     </tr>
   </tbody>
 </table>
