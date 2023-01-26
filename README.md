@@ -80,6 +80,13 @@ As a full-stack software engineer, I am extremely comfortable and capable with l
   </tbody>
 </table>
 
+<h3>Currently Working On:</h3>
+<ul>
+	<li>Adding even more functionality to the above projects 👨‍💻</li>
+	<li>Harvard's online <a href='https://cs50.harvard.edu/games/2018/'>Game Development course (CS50G)</a> 🕹</li>
+	<li>Further refining my grasp on data structures and algorithms via <a href='https://www.structy.net'>Structy.net</a> 📃</li>
+</ul>
+
 <h3>Where to find me</h3>
 <p><a href="https://github.com/cmcohen89" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://www.linkedin.com/in/cmcohen" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://angel.co/u/christopher-cohen-5" target="_blank"><img alt="Wellfound" src="https://img.shields.io/badge/wellfound-%ccc.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>
 	
